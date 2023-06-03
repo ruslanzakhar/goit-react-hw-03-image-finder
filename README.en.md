@@ -5,7 +5,7 @@ This project was created with
 acquainted and configure additional features
 [refer to documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Creating a repository by template
+## Creating a repsitory by template
 
 Use this GoIT repository as a template for creating a repository
 of your project. To use it just tap the `«Use this template»` button and choose
